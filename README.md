@@ -1,4 +1,4 @@
-# LSTMVariantsForTimeSeriesForecasting
+# RNN Variants For TimeSeries Forecasting
 The ExtraSensory data set has been used. This is a human activity recognition data set containing data from 60 individuals. The task that I will focus on, is probabilistic activity forecasting. Given a sub-dataframe consisting of between one and 30 consecutive observations for a single individual and a timestamp value t, the objective is to predict the (log) probability that each of the five labels (label:LYING_DOWN, label:SITTING, label:FIX_walking, label:TALKING, label:OR_standing) is active (e.g., takes the value 1) at the future specified time, t.
 
 In this project, I will leveragemy knowledge of Recurrent Neural Networks. I will use the ExtraSensory data set for this. This is a human activity recognition data set containing data from 60 individuals. A full description of the base data set is available here: http://extrasensory.ucsd.edu/. 
